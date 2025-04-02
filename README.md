@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @nareshsheoran
-- 👀 I’m interested in Flutter, Dart and Java
+- 👀 I’m interested in Flutter and Dart
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 officialsheoran014@gmail.com
+- 🔗 https://nareshsheoran.github.io/profile/
 
 <!---
 nareshsheoran/nareshsheoran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
