@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 officialsheoran014@gmail.com
-- 🔗 https://nareshsheoran.github.io/profile/
+- 🔗 https://nareshsheoran.github.io/portfolio/
 
 <!---
 nareshsheoran/nareshsheoran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
